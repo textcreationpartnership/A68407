@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders appointed to be executed in the cittie of London, for setting roges and idle persons to worke, and for releefe of the poore</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1587</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68407</idno>
+            <idno type="STC">STC 16712</idno>
+            <idno type="STC">ESTC S108791</idno>
+            <idno type="EEBO-CITATION">99844446</idno>
+            <idno type="PROQUEST">99844446</idno>
+            <idno type="VID">9259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9259)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 287:03, 476:04, 1633:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders appointed to be executed in the cittie of London, for setting roges and idle persons to worke, and for releefe of the poore</title>
+                  <author>London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by [J. Charlewood? for] Hugh Singleton, dvvelling in Smithfielde, at the signe of the golden Tunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1587?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably not an official publication, but a list of suggestions.</note>
+                  <note>Actual printer's name and publication date conjectured by STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>There is a mid 17th-century type facsimile in which the decorative initials are engraved.</note>
+                  <note>Identified as STC 16709+ on UMI microfilm reel 287, and as 16709 on reel 476.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery and the Bodleian Library.</note>
+                  <note>Appears at reel 287 (Henry E. Huntington Library and Art Gallery copy), at reel 476 (Bodleian Library copy), and at reel 1633 (Huntington copy filmed again).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  England --  London --  Early works to 1800.</term>
+               <term>Rogues and vagabonds --  England --  Early works to 1800.</term>
+               <term>Poor laws --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9259:1"/>
+            <pb facs="tcp:9259:1"/>
+            <p>
+               <g ref="char:leaf">❧</g> Orders <hi>Appointed to be executed in</hi> the Cittie of London, for ſetting roges and idle perſons to worke, and for releefe of the poore.</p>
+            <q>
+               <bibl>Prouerbes, 16.</bibl>
+               <p>He that hath pittie vpon the poore, lendeth vnto the Lord: and looke what hee layeth out, it ſhall bee payd him againe.</p>
+            </q>
+            <q>
+               <bibl>Pſalme. 61.</bibl>
+               <p>Bleſſed is the man that prouideth for the ſicke and needy: the Lorde ſhall deliuer him in the time of trouble.</p>
+            </q>
+            <p>At London</p>
+            <p>
+               <hi>Printed by Hugh Singleton, dvvelling in Smithfielde, at the ſigne of the golden Tunne.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="orders">
+            <pb facs="tcp:9259:2"/>
+            <pb facs="tcp:9259:2"/>
+            <p>
+               <seg rend="decorInit">F</seg>Or releefe of the poore, and for ſetting to worke of vagaraunt people, there are to be ſet vp in Bridwell certaine artes, occupations, workes and labours.</p>
+            <p n="2">
+               <hi>2</hi> There are to be prouided ſtocke &amp; tooles for thoſe workes. There is to be prouided bedding, apparrell, and dyet for thoſe poore to be ſet to worke.</p>
+            <p n="3">
+               <hi>3</hi> When order ſhalbe taken and ſufficient prouiſion had for the furniture of the workes, Proclamation ſhall bee made throughout the Citty, that all vagarants which are come out of other places, where by the law they ought to be prouided for, ſhall depart the Cittie and the lyberties thereof, to the places of their byrth or laſt abode according to the Law, vpon the paines thereof due.</p>
+            <p n="4">
+               <hi>4</hi> Within co<g ref="char:cmbAbbrStroke">̄</g>uenient time after the day limitted by ſuch Proclamation a generall ſearch ſhalbe made, and lyke<g ref="char:EOLhyphen"/>wiſe new generall ſearches from time to time as ſhalbe requiſite, thoughout the Cittie and the liberties therof at one inſtant, &amp; all the vagarants that ſhall be there founde ſhalbe brought to Bridewell to be examined.</p>
+            <p n="5">
+               <hi>5</hi> Such of them as be not diſeaſed, and the Cittie not to be charged with the<g ref="char:cmbAbbrStroke">̄</g> by lawe, ſhalbe dealt with according to the lawe.</p>
+            <p n="6">
+               <hi>6</hi> Such of the ſaide vagarants as ſhalbe found diſeaſed and to be curable, to y<hi rend="sup">t</hi> number that the Hoſpitals ſhalbe able to receiue, ſhalbe ſent to the Hoſpitalles to be cured: and being cured ſhalbe ſent to Bridewell againe there to be examined and vſed as is aforeſayd.</p>
+            <p n="7">
+               <hi>7</hi> In this reſpect order is to be taken with the Hoſpi<g ref="char:EOLhyphen"/>talles of S. Bartholmew and S. Thomas, that ſuch as ſhalbe ſent to them from Bridewell by warrant of foure gouernours at the leaſt vnder their handes to bee ſubſcri<g ref="char:EOLhyphen"/>bed at a Courte or aſſembly of them together, may be re<g ref="char:EOLhyphen"/>ceiued
+<pb facs="tcp:9259:3"/>at all tymes of the wéeke and not deferred vntyll theyr Court dayes. And that they ſpare the taking in of other, for the time, if néede ſo require.</p>
+            <p n="8">
+               <hi>8</hi> Thoſe whom the Cittie by law is charged to prouide for and are able to work, ſhalbe receiued into Bridewell, and there kept with thin diet, onely ſufficing to ſuſtaine them in health, and ſhalbe ſet to work in ſuch of y<hi rend="sup">e</hi> workes labours and occupations as they ſhall be found fitteſt for.</p>
+            <p n="9">
+               <hi>9</hi> If any ſuch ſhall loyter and wyll not doo ſuch labor as in reaſon they ought and as is doone by other of like capa<g ref="char:EOLhyphen"/>citie and ſtrength, they ſhall be puniſhed in Bridewell as is vſed by the diſcretion of the Gouernours.</p>
+            <p n="10">
+               <hi>10</hi> If any of them ſhall run away or eſcape from Bride<g ref="char:EOLhyphen"/>well, and be taken againe vagarant within the liberties of this Cittie, he ſhalbe co<g ref="char:cmbAbbrStroke">̄</g>mitted to the gaole as a Roge in the firſt degrée, and neuertheleſſe after execution doone vpon him by boaring his eare, he ſhall againe bee ſent to Bridewell to worke as before, if none other will at the Seſſions receiue him according to Lawe.</p>
+            <p n="11">
+               <hi>11</hi> Likewyſe eſcaping and being eftſoones taken againe vagarant, he ſhalbe vſed as a felon according to Lawe.</p>
+            <p n="12">
+               <hi>12</hi> If any ſuch vagarants ſhalbe found ſkilfull in any oc<g ref="char:EOLhyphen"/>cupation wherby any Cittizen or other vſing ſuch occupa<g ref="char:EOLunhyphen"/>tion wilbe contented to receiue them into ſeruice, or y<hi rend="sup">t</hi> a<g ref="char:EOLhyphen"/>ny Cittizen or any other wilbe content to take any of the<g ref="char:cmbAbbrStroke">̄</g> Apprentiſe or to ſeruice either in London or in the coun<g ref="char:EOLhyphen"/>trey, the gouernours of Bridewell ſhall doo their indeuor ſo to beſtowe them. Prouided alway that if after ſuch be<g ref="char:EOLhyphen"/>ſtowing, any of them ſhalbe found vagarant, hee ſhalbe v<g ref="char:EOLhyphen"/>ſed as one eſcaping out of Bridewell as is aforeſayd.</p>
+            <p n="13">
+               <hi>13</hi> Such of them as belonging by law to the charge of the Citie haue yong children vpon their hands, and vpon exa<g ref="char:EOLunhyphen"/>mination none ſhalbe found which by law ought to finde
+<pb facs="tcp:9259:3"/>them, the ſame children ſhalbe ſent to Chriſtes Hoſpitall by ſuch order and maner as hath béene accuſtomed ſo far as the houſe ſhalbe able to maintaine the<g ref="char:cmbAbbrStroke">̄</g>. And the reſte to be maintained at the charge of y<hi rend="sup">e</hi> pariſh according to law.</p>
+            <p n="14">
+               <hi>14</hi> Such of them as are aged lame and impotent and not to be cured nor able to labor, ſhalbe prouided for in the Pariſhes where they dwell by ſome good order there to be taken.</p>
+            <p n="15">
+               <hi>15</hi> If any being ſo prouided for ſhalbe founde begging in the ſtréetes they ſhalbe puniſhed in Bridwell by order of the gouernours for the firſt time. And for y<hi rend="sup">e</hi> ſecond tyme, and the third time they ſhalbe vſed as Roges in the firſt and ſecond degrées according to the Lawe.</p>
+            <p n="16">
+               <hi>16</hi> Such Pariſhes as haue moe poore then they are able to reléeue ſhall haue ayde of the money to be leuied for this cauſe.</p>
+            <p n="17">
+               <hi>17</hi> If any Carier or other ſhall by lande or water bring to this Cittie or néere to y<hi rend="sup">e</hi> ſame any children or other and leaue them vnplaced or not ſufficiently prouided for: ſuch Carrier or bringer ſhalbe puniſhed by impriſonment, or otherwiſe as ſharply as law wil permit, and alſo ſhall be bound to conuey ſuch back againe to the places whence they came or where they ought to be prouided for accor<g ref="char:EOLhyphen"/>ding to law. Warning to be giuen by Proclamation of the contents of this and the next Article.</p>
+            <p n="18">
+               <hi>18</hi> Euery Inkéeper or ſuch other perſon in this Citty or néere to the ſame, which ſhall wittingly receiue or kéepe any ſuch child or other ſo brought &amp; not ſufficiently pro<g ref="char:EOLhyphen"/>uided for, ſhalbe charged to kéepe and prouide for ſuch child or other ſo brought, or els be bound to diſcharge the Cittie of them, or to conuey them backe agayne from whence they came. And if he refuſe ſo to doo, then hee ſhall be puniſhed as is aboueſayd of the Carier or bringer.</p>
+            <p n="19">
+               <hi>19</hi> That Proclamation be made that euery Cittizen ſhal
+<pb facs="tcp:9259:4"/>haue charge on paine of iii. s. iiii. d. and euery other perſon ſhalbe required, to bryng or cauſe to bee brought to the Conſtable or his Deputie or to the Bedle of the Warde or other Bedle euery ſuch vagarant as ſhall beg of them in the Pariſh where ſuch citizens or other doo dwell: that ſuch vagarant may by ſuch Conſtable or his deputie or by the Bedle be ſent to Bridewell to be examined and v<g ref="char:EOLhyphen"/>ſed as is aboue ſayd.</p>
+            <p n="20">
+               <hi>20</hi> The Conſtables, Surueyors of Pariſhes, Bedles of Wardes &amp; other Bedles ſhall haue charge to apprehende all ſuch vagarantes as they ſhall finde, and to bring or ſend them to Bridewell as is aforeſayd, on payne of vi. s. viii. d. to be paid by euery ſuch Conſtable or his deputy, &amp; iii. s. iii. d. by euery ſuch Surueyor or Bedle in whom the fault ſhalbe found, and the ſame to be leuied by diſtreſſe, and to be imployed to the vſe of the poore in Bridewell.</p>
+            <p n="21">
+               <hi>21</hi> And alſo that the Conſtables, Deputies, and bedles, on like payne, ſhall conuey to Bridewell, ſuch as ſhall be brought to them as is afore ſayd.</p>
+            <p n="22">
+               <hi>22</hi> The Conſtable in euery watch ſhalbe charged vppon like payne of vi. s. viii. d. to apprehend all ſuch vagarants and Rogiſh perſons as they ſhall find by night, and ſhall ſend or conuey them to the Counter or Cage, and ſo to Bridewell the next day. And the Porter or Officers of Bridewell ſhall preſently receyue them wythout any further attendaunce of ſuch as ſhall bring them.</p>
+            <p n="23">
+               <hi>23</hi> The gouernours of Bridewell ſhall appoint ſome meete perſons to follow the cauſes at euery Seſſions a<g ref="char:EOLhyphen"/>gainſt ſuch as ſhalbe committed to pryſon as is aforeſaid.</p>
+            <p n="24">
+               <hi>24</hi> For auoyding the returne of idle vagarants, and for better reformation of the idle youth and vnthriftie poore in this Citie and for further execution of the premiſſes, e<g ref="char:EOLhyphen"/>uery Alderman or his Deputie in his ward aſſiſted wyth a ſufficient ſteward ſhall kéepe his Court of Wardmote once in euery month for the firſt yeare now enſuing, and
+<pb facs="tcp:9259:4"/>in other yéeres once in euery thrée monethes, on payne to euery Alderman for his default or of his ſufficient De<g ref="char:EOLhyphen"/>putie for him in not kéeping the ſayd Court xl. s. to y<hi rend="sup">e</hi> like vſe of the poore. And all y<hi rend="sup">e</hi> inhabitants ſhall there appeare or be amerced for their defaultes, and out of the ſaide a<g ref="char:EOLhyphen"/>mercements and profites of Court the ſteward ſhalbe re<g ref="char:EOLhyphen"/>warded with reaſonable fée by the diſcretion of y<hi rend="sup">e</hi> Alder<g ref="char:EOLhyphen"/>man, and the reſt ſhalbe to the ſayd vſe of the poore.</p>
+            <p n="25">
+               <hi>25</hi> By the Inqueſt ſhalbe there enquired, if idle perſons, roges, vagabunds, and other ſuſpect perſons which lyue diſorderly or ſuſpiciouſly or ſpende their times at Bow<g ref="char:EOLhyphen"/>ling allies, playes, and other places vnthriftily: &amp; whether the meane officers doo their dueties, and all other mat<g ref="char:EOLhyphen"/>ters, as in the charge of léetes: and that ſpéedy proceſſe be vſed according to the law for the reformation without de<g ref="char:EOLhyphen"/>lay.</p>
+            <p n="26">
+               <hi>26</hi> Order to bee there taken for the Wardes to haue ca<g ref="char:EOLhyphen"/>ges and ſtocks, according to the Lawes of this Cittie, and for the renuing of ſearches for vagarants and ſuch other perſons from time to time as ſhalbe requiſite.</p>
+            <p n="27">
+               <hi>27</hi> In euery Parriſh by the Perſon or the Curate and Churchwardens with the Conſtable &amp; the Collectors for the poore, and ſixe other of the chiefe of the inhabitaunts at the leaſt, a veſtry to be holden in the wéeke before the aſſemble of euery ſuch wardmote, to enquire and vnder<g ref="char:EOLhyphen"/>ſtand of all idle perſons, vagaboundes, roges, diſordered maiſters of houſes, diſordered Children of the poore, dyſ<g ref="char:EOLhyphen"/>ordered Alehouſes, and ſuch like, abſences from Church, and other miſdemeaners in their Parriſh: and that ſuch as they finde, be preſented at the next wardmote.</p>
+            <p n="28">
+               <hi>28</hi> In euery parriſh a generall ſuruey to be made, by the Conſtable, Churchwardens, Collectors for the poore, and vi. other of the Pariſhners of all their poore and needye neighbors of the Pariſh <hi>vz.</hi> of euery houſe particularly, the names of the dwellers, the children and ſeruauntes,
+<pb facs="tcp:9259:5"/>the ſexe and age of euery one, and which be able to labour and whereupon, and who be vtterly impotent to any la<g ref="char:EOLhyphen"/>bour.</p>
+            <p n="29">
+               <hi>29</hi> No penſion nor other reléefe to be giuen to any which are idle, being able to labor. And ſuch as will labour and haue not nor can prouide to ſet themſelues to worke, ma<g ref="char:EOLhyphen"/>king their mone to the Churchwardens or Collectors for the poore, may by a bill to be ſigned with the hands of the ſayd Churchwardens or Collectors, or any two of them and thrée other pariſhoners, haue work appoynted or de<g ref="char:EOLhyphen"/>liuered them at Bridewell, or els where.</p>
+            <p n="30">
+               <hi>30</hi> None of the poore, or their children be ſuffered to begg or wander in the ſtréetes, but be exerciſed vpon méete la<g ref="char:EOLhyphen"/>bor toward the getting of their liuing in honeſt ſort.</p>
+            <p n="31">
+               <hi>31</hi> In euery parriſh all the poore houſes ſhall be at co<g ref="char:cmbAbbrStroke">̄</g>ue<g ref="char:EOLhyphen"/>nient times viſited, daily if it may be, by ſome one or moe to be appoynted at the veſtry to ſée how they apply theyr work, and the defaults to be certified euery ſunday to the Churchwardens, and by the<g ref="char:cmbAbbrStroke">̄</g> to be noted in a book againſt the next veſtry.</p>
+            <p n="32">
+               <hi>32</hi> Such youth, and other as are able to labour and may haue worke &amp; ſhal be found idle ſhall haue ſome maner of correction by the parents, or otherwiſe as ſhalbe thought good in the pariſh. And if they wyll not amend they ſhal<g ref="char:EOLhyphen"/>be ſent to Bridewell to be reaſonably corrected there.</p>
+            <p n="33">
+               <hi>33</hi> Such as be impotent and reléeued by penſions &amp; can do ſomewhat, ſhalbe occupied in ſo much as they can doo: and the ſicke ſhalbe viſited and reléeued of the co<g ref="char:cmbAbbrStroke">̄</g>mon boxe for the poore in their Parriſh during onely their ſicknes, and afterward ſhall apply theyr labor againe.</p>
+            <p n="34">
+               <hi>34</hi> Humble ſute to be made to the Lord Mayor and hys brethren that vpon preſentments in the court of Ward<g ref="char:EOLhyphen"/>mote due execution and reformation be had.</p>
+            <p n="35">
+               <hi>35</hi> For better execution &amp; redreſſe to be had of thinges to be preſented by the Inqueſt of Wardmote, the preſent<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:9259:5"/>ſhalbe deliuerd to the Alderma<g ref="char:cmbAbbrStroke">̄</g> of the ward, and by him or his deputy ſhalbe ſpéedely redreſſed and execu<g ref="char:EOLunhyphen"/>ted ſuch thinges ſo repreſented as be within his power by law and the orders of this Citty to execute.</p>
+            <p n="36">
+               <hi>36</hi> Such thinges as be not in the power of the Alder<g ref="char:EOLhyphen"/>man or his deputy, but in the power of the houſe of Bridewel by vertue of their charter ſhalbe deliuered to to the gouernours of Bridewel to be by them executed and reformed ſo far as they may according to the law.</p>
+            <p n="37">
+               <hi>37</hi> Such things as be not in the power of the Alderma<g ref="char:cmbAbbrStroke">̄</g> or his deputie, nor in the power of the houſe of Bride<g ref="char:EOLhyphen"/>well, but do require the authority of the Lord Maior or of the court of Alderme<g ref="char:cmbAbbrStroke">̄</g> or of any Iuſtices of peace, ſhal be deliuered ouer to the Lord Maior or to ſuch iuſtices as ſhalbe requiſite, that the ſame may be lawfully and duly redreſſed.</p>
+            <p n="38">
+               <hi>38</hi> To euery art, ſcience, or labor in Bridewell be ap<g ref="char:EOLhyphen"/>pointed two of the gouernours of Bridewell to ouerſée the ſame, who ſhal haue care to the doing therof as they may anſwer that charge in credite and conſcience.</p>
+            <p n="39">
+               <hi>39</hi> Foure gouerners of that houſe ſhal atte<g ref="char:cmbAbbrStroke">̄</g>d two hours at the leaſt in euery day for examination &amp; direction of ſuch as ſhalbe brought thether after the firſt ſearch &amp; for expedition of other things requiſite.</p>
+            <p n="40">
+               <hi>40</hi> The treſorer with ſome of the gouernours of Brid<g ref="char:EOLunhyphen"/>well ſhalbe appointed for the prouiding of corne, bread, victuall apparel and neceſſaries for the poore, and to o<g ref="char:EOLhyphen"/>uerſée their lodgings and ſuch other things as be néede<g ref="char:EOLhyphen"/>full.</p>
+            <p n="41">
+               <hi>41</hi> Of ſuch companies of this City as wel the worſhipfull as the inferior as the gouernors of Bridewel ſhall find to be requiſite according to the qualitie of the artes or labors that are to be ouerſéene, there ſhalbe appoin<g ref="char:EOLhyphen"/>ted perſons to attend, ſo as there may be euery day two
+<pb facs="tcp:9259:6"/>attending at Bridewell to ouerſée the workes, and to giue knowledge of the defaults which they ſhal find, to the gouernours, on paine of xx. ſhillings to be payed by the wardens if they appoynt not, being therunto re<g ref="char:EOLhyphen"/>quired by the ſpace of a weeke before, &amp; on paines of vi. ſhillings viii. pence to be paid by euery of the parties ap<g ref="char:EOLunhyphen"/>pointed, if he atte<g ref="char:cmbAbbrStroke">̄</g>d not being warned thrée daies before at the leaſt, the ſayd paines to be to the vſe of the poore in Bridewell and to be leuied by diſtreſſe.</p>
+            <p n="42">
+               <hi>42</hi> Where in the Sauoy are lodged nightly great num<g ref="char:EOLunhyphen"/>bers of idle wicked perſons, cutpurſes, couſiners, and ſuch other théeues, &amp; there in the night are hidden from officers and in the day do vſe their rogiſh life, ſo that y<hi rend="sup">e</hi> ſame place honorably ordeined is by ſuch abuſe made a nourſery of roges théeues idle and dronken perſons: for remedy therof, requeſt to be made to the maiſter of that houſe, y<hi rend="sup">e</hi> ſpeciall perſons be appoynted to examine ſuch as ſhall come to lodge in the Sauoy that ſuch be lodged there as be of honeſt fame, poore men comming vp for their ſutes or cauſes, or ſuch as are knowen &amp; can gyue accompt of their labour in the day time, and no other: &amp; if any ſuch lewde roges be founde there, the officers of the Sauoy or the Iuſtices to whom it may appertaine may ſend them to ſuch place as they ought to be ſent by lawe.</p>
+            <p n="43">
+               <hi>43</hi> Like order ſhalbe had for reformation of the lyke a<g ref="char:EOLhyphen"/>buſe in S. Thomas hoſpital. And for better execution therof two or moe of the gouernors of Bridewell may from time to time as often as ſhalbe thought néedefull goe into S. Thomas hoſpital with aſſiſtaunce or co<g ref="char:cmbAbbrStroke">̄</g>ſent of ſome of y<hi rend="sup">e</hi> gouernors there, to ſerch what people ſhal<g ref="char:EOLhyphen"/>be there lodged, and ſuch as they ſhall there finde vaga<g ref="char:EOLhyphen"/>rants and able to labor ſhalbe committed to Bridewell to be examined as is aforeſayd.</p>
+            <p n="44">
+               <hi>44</hi> For reformation of exceſſiue number &amp; diſorder of alehouſes, tipling houſes, cellers, &amp; ſuch like which bée
+<pb facs="tcp:9259:6"/>the maintainers &amp; receiuers of wicked perſons and bée the occaſion of much theft pilfering and incontinent life and y<hi rend="sup">e</hi> increaſe of harlots and conſequently of Baſtards and diſeaſes to the great charge of the Citty: a view be had of all alehouſes, cookes houſes, tipling houſes, cel<g ref="char:EOLhyphen"/>lers, &amp; ſuch like in euery pariſh by ſuch as haue thereof authority, &amp; that the numbers of them be abridged to a reſonable proportion for the Ward or Pariſh, and in places conuenient, as ſhalbe thought méete, &amp; certified by the Alderman of the Warde, and no other to bee allowed.</p>
+            <p n="45">
+               <hi>45</hi> That al be put downe and diſalowed, but only ſuch as be of good fame, and knowne enemies to wicked life and ſo certified by the Alderman of the Ward, and that ſuch as be once detected and found faultie of euill rule, ſhall neuer be allowed againe.</p>
+            <p n="46">
+               <hi>46</hi> No lodging, gaming, or vitling be ſuffered in any celler.</p>
+            <p n="47">
+               <hi>47</hi> Bondes ſhalbe taken with ſuerties for obſeruing y<hi rend="sup">e</hi> ſaid orders by vitalers, and the bondes and forfaytures therof ſhalbe made and emploied to the vſe of the poore in bridewell.</p>
+            <p n="48">
+               <hi>48</hi> Where many Landlords and farmers of Allies, or of great houſes conuerted into ſmal habitatio<g ref="char:cmbAbbrStroke">̄</g>s, do kepe victaling houſes, and houſes, ſhoppes, or cellers for vtte<g ref="char:EOLunhyphen"/>ring of drinke vittaile and other chaffer to the inha<g ref="char:EOLhyphen"/>bitantes of thoſe allies or ſmall habitations, all ſuch ſhalbe vtterly diſſalowed &amp; forbidden to be vſed of ſuch Landlords or farmes or by any other by their meanes or within ſuch Allies or houſes.</p>
+            <p n="49">
+               <hi>49</hi> Such as are aboue limited to be puniſhed by whip<g ref="char:EOLhyphen"/>ping, ſhalbe ſo puniſhed by the diſcretio<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> gouernors of bridewel, wherof at leaſt there ſhalbe ſuch numbers of Iuſtices as in ſuch caſe is required by the ſtatutes
+<pb facs="tcp:9259:7"/>without tarying for any delay of ſeſſions at the Guild<g ref="char:EOLhyphen"/>hal, which to the Gouernours ſhould be troubleſome &amp; to the houſe very chargeable, and conſequently hurtfull to the releaſe of the poore.</p>
+            <list>
+               <head>¶ Artes, Occupations, Labors, and Works, to be ſet vp in Bridewell.</head>
+               <item>The worke in the Milles,</item>
+               <item>The worke in the Ligh<g ref="char:EOLhyphen"/>ter &amp; vnlading of Sand</item>
+               <item>The carying of ſand.</item>
+               <item>Making of ſhooes.</item>
+               <item>Thicking of Cappes by hand and foote.</item>
+               <item>Making of woll Cardes.</item>
+               <item>Making of Nayles.</item>
+               <item>Making of gloues.</item>
+               <item>Making of Combes.</item>
+               <item>Making of Inkle and tape.</item>
+               <item>Making of ſilke Lace,</item>
+               <item>Making of Aparrell for the houſe.</item>
+               <item>Spining of wollen yrane.</item>
+               <item>Knitting of hoſe.</item>
+               <item>Spinning of Linnen yarne.</item>
+               <item>Spinning of Candell wéeke.</item>
+               <item>Making of Pack threed</item>
+               <item>Drawing of wier.</item>
+               <item>Making of Pinnes.</item>
+               <item>Making of Pointes.</item>
+               <item>Making of Kniues.</item>
+               <item>Making of Tenniſe balles.</item>
+               <item>Making of Bayes.</item>
+               <item>Making of Feltes.</item>
+               <item>Picking of woll for Felts</item>
+               <item>Or any other that may fall in practiſe</item>
+            </list>
+            <p n="50">
+               <hi>50</hi> IT is to be ordered, to y<hi rend="sup">e</hi> in<g ref="char:EOLhyphen"/>tent that the houſe of Bridewel be not o<g ref="char:EOLhyphen"/>uerpeſtred, but may be able to receaue ſuch as ſhall néede, and that ſuch as ſhal<g ref="char:EOLhyphen"/>be brought thethér be brought for theyr reformation and not for perpetuall ſeruitude, that the gouernours ſhall doo their indeuours to beſtow as ma<g ref="char:EOLhyphen"/>ny of the youth as ſhalbe put to labor there, in ſeruice either as apprentiſes or otherwiſe with citizens or any other that wilbe content to receiue the<g ref="char:cmbAbbrStroke">̄</g>. And ſpeciallie that owners and Maiſters of ſhippes be intreated to re<g ref="char:EOLhyphen"/>ceiue
+<pb facs="tcp:9259:7"/>ſuch into their ſeruice.</p>
+            <p n="51">
+               <hi>51</hi> To auoid the perill that the ſetting a worke of va<g ref="char:EOLhyphen"/>grants in the ſaid Artes at Bridewell might be to the ouerthrow of the worke and to the vndoing of poore cit<g ref="char:EOLunhyphen"/>tizens houſholders, and their families that liue by wor<g ref="char:EOLunhyphen"/>king in the ſame arts for other, or by retaling of things wrought: Therfore the gouernours of Bridwell ſhall conſult with the Wardens and diſcrete men of thoſe companies that vſe y<hi rend="sup">e</hi> working or ſelling of ſuch things as ſhalbe wrought in Bridewel, as ſhoomakers and o<g ref="char:EOLhyphen"/>ther, that the ſaid companies and their houſholders ſhal deliuer their worke to ſuch number in Bridwel as they may with the benefit of their company, and ſhal pay for the ſame at reaſonable rates to their profit.</p>
+            <p n="52">
+               <hi>52</hi> Alſo a note ſhall be kept in Bridewell of places and perſons where and of whome worke may be had, that poore in pariſhes ſent thether to require worke may be the better releued.</p>
+            <p n="53">
+               <hi>53</hi> A view to be had of the cordwainers &amp; other artifi<g ref="char:EOLhyphen"/>cers what forrens are ſet on work contrary to y<hi rend="sup">e</hi> lawes of this Citty, &amp; how many of them by their birth or by their continuance the ſpace of thrée yéeres do belong to the burden &amp; charg of this citty, that order may be take<g ref="char:cmbAbbrStroke">̄</g> for them &amp; for auoiding the increaſe of them hereafter but in caſe of neceſſity, &amp; alſo with bonds of ſuch as ſhal retaine them that they ſhal neuer be burdenous to the Citty as vgarants or perſons vnprouided for.</p>
+            <p n="54">
+               <hi>54</hi> For the better reléefe of the poore, the leather that ſhalbe found faulty in this Citty and ſeiſed as forfay<g ref="char:EOLhyphen"/>ted, ſhall neuer for any price come to the vſe of the ſear<g ref="char:EOLunhyphen"/>chers, or ſealers of leather, but ſhall wholy be to Chri<g ref="char:EOLhyphen"/>ſtes hoſpital, &amp; Bridewel, to be there made into ſhooes for the poore, by the poore that ſhall worke there: and the ſearchers ſhall haue their portion in money accor<g ref="char:EOLhyphen"/>ding to the praiſement.</p>
+            <pb facs="tcp:9259:8"/>
+            <p n="55">
+               <hi>55</hi> Prouſion is to be made for apparell, bedding, and meate for the ſayd poore, for tooles, and for ſtocke and ſtuffe for the occupations, for making of Milles, and buying of Lighters, for fées and wages of Bedelles and other neceſſary poore attendauntes: and therfore a com<g ref="char:EOLhyphen"/>petent &amp; ſufficient portion of money is to be had, which by an eſtimate for one yéere accompting for ii, C. per<g ref="char:EOLhyphen"/>ſons amounteth about ii, M, l.</p>
+            <p n="56">
+               <hi>56</hi> That the act of common Counſell for Lime and for ſpending of ſand and grauell to be taken out of Tha<g ref="char:EOLhyphen"/>miſe be ſeuerely put in execution, which the body of the Citty do humbly pray the Lord Maior and his brethren earneſtly to do, and to bind, &amp; puniſh with all ſtraight<g ref="char:EOLhyphen"/>nes the offendors to the contrary, and eſpecially ſuch workemen as in deceiuing of builders do ſlaunder the ſaid ſand, which by good triall in the buildings of noble men, and of ſundry good Citizens, and other, and ſpecy<g ref="char:EOLhyphen"/>ally by a trial late made in the preſence of the wardens of the ſayd workemen, is found and confeſſed as good for the worke and as profitable to the builder as any o<g ref="char:EOLhyphen"/>ther ſand.</p>
+            <p n="57">
+               <hi>57</hi> For the prouiſion of the ſayd ſtock to the accompli<g ref="char:EOLhyphen"/>ſhing of the ſaid good works, there may be graunted by the body of this Citty too fiftenes to be aſſeſſed &amp; leuied in vſuall manner, wherof the one to be paid as ſpéedy<g ref="char:EOLhyphen"/>ly as may be, the other at the end of vi. monethes.</p>
+            <p n="58">
+               <hi>58</hi> Hereunto be added the taxations of al forens inhabi<g ref="char:EOLunhyphen"/>ting within y<hi rend="sup">e</hi> liberties of this City to be aſſiſted accor<g ref="char:EOLhyphen"/>ding to the ſtatute lately made for erecting of houſes, for ſetting the poore on worke, or els to be contributary in the ſayd fiftenes by the rate of their houſes.</p>
+            <p n="59">
+               <hi>59</hi> Where the other Hoſpitalles both for the poore chil<g ref="char:EOLunhyphen"/>dren, &amp; for the diſeaſed are likely at the firſt to haue here by ſome increaſe of charge, &amp; where alſo ſome pariſhes are to be charged with their impotent poore, which are
+<pb facs="tcp:9259:8"/>not able nor fitte to worke in Bridewell: Therfore the Lord Mayor &amp; ſuch as be thereunto authoriſed by the ſtatutes wil ſit againe and peruſe the bookes of taxati<g ref="char:EOLhyphen"/>ons for the poore, that by the aſſeſſing of ſuch as become in place ſince the laſt aſſeſſement &amp; were not aſſeſſed be<g ref="char:EOLunhyphen"/>fore and by auauncing ſuch as God hath further bleſſed with hability, and with reaſonable conſideration of ſuch as be leſſe able, the booke may be renewed and made as beneficiall, as reaſonably may be for the poore.</p>
+            <p n="60">
+               <hi>60</hi> That a conſideration be had of the penſionaries out of the hoſpitall in euery Pariſh, that none be allowed without néede, nor to ſuch as haue penſions otherwiſe, wherby ſuch as truely haue néede may be the better re<g ref="char:EOLhyphen"/>léeued.</p>
+            <p n="61">
+               <hi>61</hi> For helpe of the hoſpitals &amp; Pariſhes in this charge all churchwarde<g ref="char:cmbAbbrStroke">̄</g>s &amp; collectors for the poore be ſtrayght<g ref="char:EOLhyphen"/>ly charged to execute the lawe againſt ſuch as come not to church, againſt al perſons without exception, &amp; ſpe<g ref="char:EOLhyphen"/>cially againſt ſuch as while they ought to be at diuine ſeruice, doo ſpend their time and their money lewdly in haunting of plaies, and other idle and wycked paſtimes and exerciſes.</p>
+            <p n="62">
+               <hi>62</hi> For as much as the playing of Enterludes, &amp; the re<g ref="char:EOLhyphen"/>ſort to the ſame are very daungerous for y<hi rend="sup">e</hi> infection of the plague, whereby infinite burdens and loſſes to the Citty may increaſe, and are very hurtfull in corruptio<g ref="char:cmbAbbrStroke">̄</g> of youth with incontinence &amp; lewdnes, and alſo great waſting both of the time &amp; thrift of many poore people and great prouoking of y<hi rend="sup">e</hi> wrath of God the ground of all plagues, great withdrawing of the people from pub<g ref="char:EOLunhyphen"/>lique prayer &amp; from the ſeruice of God, and daily cryed out againſt by y<hi rend="sup">e</hi> graue and earneſt admonitions of the preachers of the word of God: Therefore be it ordered that all ſuch Enterludes in publique places, and the re<g ref="char:EOLhyphen"/>ſort to the ſame ſhall wholy be prohibited as vngodly, and humble ſute be made to the Lords that lyke prohi<g ref="char:EOLhyphen"/>bition be in places néere vnto the Cittie.</p>
+            <pb facs="tcp:9259:9"/>
+            <p n="63">
+               <hi>63</hi> The forfaitures of al ſuch as be bou<g ref="char:cmbAbbrStroke">̄</g>d not to place in their allies &amp; ſmall habitations any ſuch as ſhalbe bur<g ref="char:EOLhyphen"/>denous to the Citty, be ſeuerally leuied &amp; emploied to the reléefe of the poore in the ſaid Hoſpitals &amp; pariſhes, and that the Lord Maior and Aldermen will not remit any part thereof nor ſtay any ſute or execution vpon a<g ref="char:EOLhyphen"/>ny of the ſaid bondes without conſent of the common counſell.</p>
+            <p n="64">
+               <hi>64</hi> New bonds be taken to like effect and for auoyding of Inmates of all ſuch as be not yet bounde or whoſe bondes ſhall ceaſe by the execution of them.</p>
+            <p n="65">
+               <hi>65</hi> The Lord maior and aldermen by the requeſt of y<hi rend="sup">e</hi> gouernours of Bridewell appoynt ſome ſpeciall offy<g ref="char:EOLhyphen"/>cers or perſons to enquire of goods foren bought &amp; ſolde wherby Citizens ſhold otherwiſe loſe y<hi rend="sup">e</hi> benefit of their trades and become vnable to reléeue the poore, &amp; part of the forfeitures ſo to be found may be to the reléefe of y<hi rend="sup">e</hi> poore.</p>
+            <p n="66">
+               <hi>66</hi> That the preachers be moued at the ſermons at the Croſſe &amp; other conuenient times ſpecially in the terme time, &amp; that other good notorious meanes be vſed, to re<g ref="char:EOLhyphen"/>quire both Citizens, Artificers, and other, and alſo all farmers and other for huſbandry, and gentlemen and o<g ref="char:EOLunhyphen"/>ther for their kitchins &amp; other ſeruices, to take ſeruants and children both out of Bridewell &amp; Chriſts Hoſpitall at their pleaſures, with declaration what a charitable déed it ſhalbe not onely for y<hi rend="sup">e</hi> reléefe of thoſe whom they ſhall ſo take into ſeruice but alſo of multitudes of other that ſhall from time to time be taken into the hoſpitals in their places, and ſo be preſerued from periſhing, with offer alſo that they ſhall haue them conueniently appa<g ref="char:EOLhyphen"/>relled &amp; bound with them for any competent number of yéeres, with further declaration that ma<g ref="char:EOLhyphen"/>ny of them be of toward quallities in readyng, wryting, Grammer, and Muſike.</p>
+            <pb facs="tcp:9259:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
